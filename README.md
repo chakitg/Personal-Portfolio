@@ -4,7 +4,7 @@
 
 <img width="945" alt="image" src="./src/assets/readme_hero.png">
 
-### Deployed link: 
+### Deployed link: https://chakitg.netlify.app/
 
 ## Table of Contents 📁
 
