@@ -39,10 +39,11 @@
 - Skills & Experience
 - Education
 - Projects
-<!-- - Blogs -->
-<!-- - Open Source Contributions -->
 - Extra Curricular
 - Contact Me
+<!-- - Blogs -->
+<!-- - Open Source Contributions -->
+
 
 ## Using as a theme ✨
 
